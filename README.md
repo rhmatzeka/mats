@@ -84,3 +84,7 @@ DISCORD_USER_ID=
 ## Deployment Notes
 
 Vercel deployments should include the environment variables above as needed. Admin uploads and content writes in production require `GITHUB_REPO` and `GITHUB_TOKEN`, because Vercel serverless filesystems are read-only at runtime.
+
+## License
+
+Released under the [MIT License](LICENSE).
